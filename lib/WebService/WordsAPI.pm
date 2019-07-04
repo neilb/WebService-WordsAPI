@@ -165,7 +165,7 @@ that rhyme with the given word:
 
 =head1 SEE ALSO
 
-L<www.wordsapi.com> is the home page for the service;
+L<https://www.wordsapi.com> is the home page for the service;
 documentation for the API can be found at L<https://www.wordsapi.com/docs>.
 
 =head1 REPOSITORY
